@@ -1,4 +1,5 @@
 // One-Line Laugh-Off — u-zkhiel-one-line-laugh-off-714618ae
+// Revised (thinking_revised): comment-only revision; logic and output unchanged.
 // Writes exactly one funny line to /output/entry.txt.
 // Deterministic: no input, no network, no randomness, no environment secrets.
 
